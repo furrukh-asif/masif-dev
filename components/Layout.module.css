@@ -1,0 +1,23 @@
+.layout {
+    top: 2%;
+    bottom: 2%;
+    width: 96%;
+    position: fixed;
+    color: aliceblue;
+    border: 3px;
+    border-style: dotted;
+    border-color: orange;
+    padding: 2%;
+    box-sizing: border-box;
+}
+
+.container {
+    top: 0px;
+    bottom: 0px;
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+    top: 0px;
+    background-color: black;
+    padding: 2%;
+}
